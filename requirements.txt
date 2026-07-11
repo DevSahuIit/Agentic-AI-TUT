@@ -1,0 +1,16 @@
+agno
+python-dotenv
+groq
+typer
+sqlalchemy
+psycopg
+pgvector
+pypdf
+sentence-transformers
+openai
+streamlit
+google-generativeai
+phidata
+duckduckgo-search
+google-genai
+ddgs
