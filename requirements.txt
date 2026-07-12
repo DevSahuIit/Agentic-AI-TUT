@@ -14,3 +14,8 @@ phidata
 duckduckgo-search
 google-genai
 ddgs
+langgraph
+langchain
+langchain_community
+langchainhub
+langchain_groq
