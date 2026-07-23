@@ -1,6 +1,6 @@
 # 🤖 Agentic AI Learning Repository
 
-> A hands-on learning repository documenting my journey into **Agentic AI**, where I explored autonomous AI systems, LLM orchestration, multi-agent workflows, RAG pipelines, and modern AI development frameworks through practical implementations.
+> A hands-on learning repository documenting my journey into **Agentic AI**, where I explored autonomous AI systems, LLM orchestration, multi-agent workflows, RAG pipelines, and modern AI development frameworks through practical implementations. 
 
 ---
 
